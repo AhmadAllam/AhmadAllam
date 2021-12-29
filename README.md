@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @echo_Ahmad
+- 👋 Hi, I’m @Ahmad_Allam
 - 👀 I’m interested in hacking & devloping & Networks
 - 🌱 I’m from egypt
 - 💞️ muslim
