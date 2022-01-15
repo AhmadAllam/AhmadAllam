@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmad_Allam
 - 👀 I’m interested in hacking & devloping & Networks
 - 🌱 I’m from egypt
-- 💞️ muslim
-- 📫 Palestinian
+- 💞️ I'm muslim
+- 📫 freedom for Palestine 
 
 <!---
 AhmadAllam/AhmadAllam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
